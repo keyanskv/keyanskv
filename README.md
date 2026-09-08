@@ -1,66 +1,98 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is keyanskv
-=================================================================================================================================
+# Hi 👋, I'm Keyan
 
-Web developer and Mobile app developer,Network engineer
--------------------------------------------------------
+### Open-source contributor | Linux & DevOps learner | Software developer
 
-Self-directed learner focused on networking, infrastructure, and cybersecurity — currently working toward the Cisco CCNA (200-301) certification.
+I’m interested in building practical software, learning Linux and networking, and contributing to open-source projects. I enjoy understanding how things work, fixing problems, and improving my development skills through real projects.
 
-🌱 Deep in CCNA study: VLANs, inter-VLAN routing, STP/RSTP, routing protocols, ACLs, NAT
+---
 
-🛠️ Hands-on with Cisco Packet Tracer and GNS3 for real lab topologies
+### 🚀 What I'm working on
 
-🖥️ Running my own home server infrastructure (Ubuntu, OpenVPN, networking experiments)
+* 🌱 Learning **Linux, DevOps, Ansible, and networking**
+* 🔧 Building practical automation and infrastructure projects
+* 🤝 Contributing to open-source projects and learning from maintainers
+* 💻 Improving my **Python, PHP, and software engineering** skills
+* 🔐 Exploring **cybersecurity** and systems administration
 
-🧰 I like building my own study tools when the existing ones don't fit — LMS platforms, quiz apps, trackers
+---
 
-💻 Working across Android + Ubuntu (Dell laptop) as my daily environment
+### 🛠️ Technologies & Tools
 
-🔧 What I've been building
-
-NetAcademy — a self-contained HTML CCNA LMS: 12 lessons across 3 modules (Fundamentals, Routing/VLANs, Advanced), with labs, quizzes, and XP-based progress tracking
-
-CCNA Quiz App — offline quiz app with 64 questions across 8 courses, built for SPCK Editor on Android
-
-CCNA Study Tracker — Excel-based dashboard with weekly schedules, daily logs, topic scores, and a habit matrix
-
-GNS3 Config Guide — reference covering routing protocols, VLANs, NAT, ACLs, and DHCP
-
-📚 Currently learning
-
-Router-on-a-Stick inter-VLAN routing, 802.1Q subinterfaces, and static routing — plus general home-lab troubleshooting (OpenVPN, NAT traversal, hairpin NAT).
-
-📫 Reach me
-
-keyanskv@protonmail.com
-
-*   🌍  I'm based in India
-*   🧠  I'm currently learning Ansible & networking
-*   👥  I'm looking to collaborate on Opensource project on this languages Python,React JS,Javascript,Flutter
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" alt="Dart" title="Dart" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" alt="Vim" title="Vim" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" alt="Redux" title="Redux" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" alt="Flask" title="Flask" width="36" height="36" /></a><a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" alt="Render" title="Render" width="36" height="36" /></a><a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" alt="Sketch" title="Sketch" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" alt="Flutter" title="Flutter" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a>
-                  </p>
-                  
+  <img src="https://skillicons.dev/icons?i=linux,python,php,git,github,docker,ansible,nginx,bash,emacs" alt="Technologies and tools" />
+</p>
 
-                ### Socials
-                
-                <p align="left"> <a href="https://www.github.com/keyanskv" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="http://www.medium.com/keyanskv" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" title="Medium" /> </picture> </a> <a href="https://www.linkedin.com/in/karthi-keyan-s-92b8b4220/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.stackoverflow.com/users/keyanskv" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" alt="Stack Overflow" title="Stack Overflow" /> </picture> </a></p>
-<a href="https://www.github.com/keyanskv" target="_blank" rel="noreferrer"><img
-                src="https://img.shields.io/github/followers/keyanskv?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+**Currently learning:** Ansible • Linux administration • Networking • DevOps • Cybersecurity
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+### 📌 Featured Projects
 
-<a href="http://www.github.com/keyanskv"><img src="https://github-readme-stats.vercel.app/api?username=keyanskv&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="keyanskv's GitHub stats" /></a>
+| Project                                                                            | Description                                                                     |
+| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| [**Ansible Debian Playbook**](https://github.com/keyanskv/ansible_debain_playbook) | Learning infrastructure automation and system configuration with Ansible.       |
+| [**Emacs Flymake**](https://github.com/flymake/emacs-flymake)                      | Contributing to an open-source Emacs project and learning software maintenance. |
+| [**Django Oscar**](https://github.com/django-oscar/django-oscar)                   | Contributing to an established Python open-source project.                      |
 
-<a href="http://www.github.com/keyanskv"><img src="https://github-readme-streak-stats.herokuapp.com/?user=keyanskv&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+> I’m continuously improving these projects and learning through real-world contributions.
 
-<a href="https://github.com/keyanskv" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyanskv&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
 
-### Support Me
+### 🤝 Open Source
 
-<ul style="list-style-type: none; margin: 0;">
+I’m interested in contributing to projects that help me learn and build useful software.
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/keyanskvq"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-</ul>
+**My contribution goals:**
+
+* Understand existing codebases
+* Fix bugs and improve documentation
+* Write and improve tests
+* Learn from code reviews
+* Make consistent, meaningful contributions
+
+---
+
+### 📚 Learning Journey
+
+```text
+Linux
+  ↓
+Networking
+  ↓
+Python & Software Engineering
+  ↓
+Ansible & DevOps
+  ↓
+Open-Source Contributions
+  ↓
+Cybersecurity
+```
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=keyanskv&show_icons=true&hide_border=true&theme=transparent" alt="Keyan's GitHub stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyanskv&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+</p>
+
+---
+
+### 📫 Connect with me
+
+* **GitHub:** [@keyanskv](https://github.com/keyanskv)
+* **Open-source:** [My repositories](https://github.com/keyanskv?tab=repositories)
+
+---
+
+### 💡 My Goal
+
+> Keep learning, build useful things, and contribute to open source one step at a time.
+
+---
+
+*Thanks for visiting my profile!*
